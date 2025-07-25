@@ -1,0 +1,19 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "testslp_Task",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "include_external_urls": true,
+        "job_type": "standard",
+        "pipeline_parameters": {
+            "productId": "abc",
+            "vendorId": "123"
+        },
+        "pipeline_path": "testslp",
+        "snaplex_path": "TriggerCloudplex"
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}
