@@ -1,0 +1,32 @@
+{
+    "class_id": "com-snaplogic-snaps-apisuite-accounts-basicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "ConnectFasterInc"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "msBasic"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "expression": false,
+                "fp": "07308620a7eb0f6ff157197a8ae024e1df99167498a1095185dcf656959d97b5",
+                "key": "account-cloud-managed-55c04b1e0501867aa4a43ab5-2015-08-04T05:19:32-385492",
+                "sym_iv": "4hSl7OWnGlE+ofuL2C8paQ==",
+                "sym_key": "Dnbx8LXrl2R8ivVjroykYeTO5BEzvLYQJQ1Z/t9KMuFigHeynWiJ24fLsoTUbUgrQ52m/tdgQV2zQskCDuIRKhfptayqbCGdcWZde5o47jQo2GQ8tvXzqrYH/lBy/H7RciCLBktmErxDZZ70xayiSvQl19L7ACXBehlSw5nHzWYUxSO0JtTpsBanhkLrJ+T0XjQlFHJpW9zhZ5U9Xy+VVWK4rqKcVby/clJ7N+mMTqkTfNsoTu2/lVmRnjrooy8eOGyEn7L07PUMY9y9sqDKc4TcS/TtmaFXGSKKDfTKIrKrCr+iyku16XlPLZpuyBZ/FdFoK4kOIYe/kU5TbhszBw==",
+                "value": "AjsX0cdTYBcpDKeaK4PrKg=="
+            },
+            "username": {
+                "expression": false,
+                "value": "msager@snaplogic.com"
+            }
+        },
+        "view_serial": 100
+    }
+}
